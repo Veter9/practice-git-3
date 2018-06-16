@@ -3,3 +3,5 @@ line2
 line3
 switched to branch1
 switched to master
+swicthed to branch2
+final
