@@ -5,3 +5,4 @@ switched to branch1
 switched to master
 swicthed to branch2
 final
+new string
